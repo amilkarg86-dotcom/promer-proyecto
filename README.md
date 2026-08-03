@@ -1,1 +1,1 @@
-# promer-proyecto
+print("Hola mundo")
